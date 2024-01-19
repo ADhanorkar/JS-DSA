@@ -40,3 +40,8 @@ var GCDbyEuclid = function (greaterNumber, smallerNumber) {
 };
 console.log(calculateGCDbyEuclid(20, 30)); //10
 console.log(calculateGCDbyEuclid(980, 78)); //2
+//Big-O: O(logn) //recursive
+//Refernce:
+//GCD: https://byjus.com/maths/greatest-common-divisor/
+//Euclid Division Algorithm: https://byjus.com/maths/euclid-division-lemma/
+//https://www.youtube.com/watch?v=tCvSDnRsGnw&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP&index=36
